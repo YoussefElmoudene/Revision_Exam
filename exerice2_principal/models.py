@@ -30,7 +30,7 @@ class Emprunteur(models.Model):
 
 # after this use
 
-# ##py manage.py makemigrations => pour
+# ##py manage.py makemigrations
 
 # #then
 
